@@ -1,12 +1,17 @@
-### Hi there 👋
+### Hi there 👋  I'm YX - aka ZhuMon.
+- :school: I'm studying in NCKU CSIE.
+- 🌱  I’m currently learning router and SDN.
+- ⚡ Fun fact: I love to play guitar.
+
+---
 
 <!--
 **ZhuMon/ZhuMon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on mail server managing. 
+- 🌱 I’m currently learning fast routing,
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![ZhuMon's github stats](https://github-readme-stats.vercel.app/api?username=ZhuMon)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuMon)](https://github.com/anuraghazra/github-readme-stats)
