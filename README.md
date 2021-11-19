@@ -2,7 +2,7 @@
 - :school: I'm studying at NCKU CSIE.
 - 🌱  I’m currently learning router and SDN.
 - ⚡ Fun fact: I love to play guitar.
-
+- contact: richardlin0212@gmail.com
 ---
 
 <!--
