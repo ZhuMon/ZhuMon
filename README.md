@@ -1,7 +1,6 @@
 ### Hi there 👋  I'm YX - aka ZhuMon.
-- :school: I'm studying at NCKU CSIE.
-- 🌱  I’m currently learning router and SDN.
-- ⚡ Fun fact: I love to play guitar.
+- :school: I'm graduated from NCKU CSIE.
+- I love to read novel and play guitar.
 - contact: richardlin0212@gmail.com
 ---
 
